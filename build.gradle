@@ -3,9 +3,9 @@ plugins {
 }
 
 apply plugin: 'application'
-mainClassName = "AllProgram"
+mainClassName = "TicTacToe"
 
-group 'AllProgram'
+group 'TicTacToe'
 version '1.0-SNAPSHOT'
 
 repositories {
