@@ -19,6 +19,7 @@ dependencies {
 
 run {
     standardInput = System.in
+    standardOutput = System.out
 }
 
 test {
