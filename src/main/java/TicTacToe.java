@@ -18,6 +18,7 @@ public class TicTacToe {
 
         System.out.println(pos);
 
+        placePiece(gameBoard, pos, "player");
 
         printGameBoard(gameBoard);
 
